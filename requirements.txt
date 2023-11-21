@@ -1,0 +1,4 @@
+uvicorn
+myapi
+transformers
+mangum
